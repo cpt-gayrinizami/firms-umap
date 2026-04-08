@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.5784,
+          38.36189
+        ]
+      },
+      "properties": {
+        "name": "YANGIN - 10:58",
+        "description": "Tarih (UTC): 08/04/2026 07:58<br>Tarih (TS\u0130): 08/04/2026 10:58<br>Uydu: S-NPP<br>Kaynak: VIIRS_NOAA21_NRT<br>Enstr\u00fcman: VIIRS<br>Zaman: G\u00fcnd\u00fcz<br>FRP: 4.02<br>G\u00fcven: Orta"
+      }
+    }
+  ]
+}
